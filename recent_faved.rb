@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-require 'pry'
 
 Plugin.create :recent_faved do
   start_time = Time.now
